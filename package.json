@@ -1,0 +1,7 @@
+{
+  "name": "travel-site-files",
+  "version": "1.0.0",
+  "dependencies": {
+    "jqeury": "0.0.1-security",
+    "normalize.css": "^8.0.1"
+  }
